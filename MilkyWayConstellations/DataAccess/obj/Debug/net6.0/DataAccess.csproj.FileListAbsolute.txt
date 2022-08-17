@@ -1,0 +1,17 @@
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\bin\Debug\net6.0\Domain.dll
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\bin\Debug\net6.0\Domain.pdb
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\MyFiles\Projects\MilkyWayConstellations\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
